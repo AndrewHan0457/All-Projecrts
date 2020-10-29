@@ -1,0 +1,14 @@
+package Customers;
+
+public class Property {
+	private doubel value;
+
+	public doubel getValue() {
+		return value;
+	}
+
+	public void setValue(doubel value) {
+		this.value = value;
+	}
+	
+}

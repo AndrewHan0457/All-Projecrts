@@ -1,0 +1,20 @@
+package Customers;
+
+public class Advertiser extends Customer{
+
+	public Advertiser(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+	
+	public void postAds(Advertisment ad) {
+		//Connect to Database
+		
+		//Write in ads
+	}
+	
+	public void manageAds() {
+		
+	}
+	
+}

@@ -1,0 +1,10 @@
+package Insertion_Sort;
+
+public class testInsertSort {
+	public static void main(String[] args) {
+		InsertionSort is = new InsertionSort(new int[] {1,2,3,4,5,7,8,9,10});
+		is.Sort(5);
+		System.out.println("Start");
+		System.out.println(is);
+	}
+}

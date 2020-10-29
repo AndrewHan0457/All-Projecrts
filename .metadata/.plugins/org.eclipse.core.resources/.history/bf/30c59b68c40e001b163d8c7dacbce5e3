@@ -1,0 +1,27 @@
+package Customers;
+
+import InterfacesAndEnums.Pay;
+import Services.Solicitor;
+
+public class Buyer extends Customer implements Pay{
+
+	private Property [] wishlist;
+	private Loan loan;
+	
+	public Buyer(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+
+	public void applyForLoan() {
+		double amount = 0; //loan amount to apply
+		loan.setType(new Solicitor().recommendLoan(amount));
+	}
+
+	@Override
+	public void pay(Buyer b, Seller s) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

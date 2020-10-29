@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="btnNewButton" key="selection"/>
+		<item value="true" key="casesensitive"/>
+		<item value="true" key="wholeword"/>
+		<list key="findhistory">
+			<item value="textField_2"/>
+			<item value="DRIVER_CLASS"/>
+			<item value="btnNewButton"/>
+			<item value="Big"/>
+			<item value="big"/>
+			<item value="Pattern"/>
+			<item value="spawnRandomBonus"/>
+			<item value="spawnrandowm"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+</section>

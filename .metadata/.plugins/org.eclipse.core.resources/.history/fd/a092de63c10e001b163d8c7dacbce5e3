@@ -1,0 +1,25 @@
+package Customers;
+
+import InterfacesAndEnums.Pay;
+
+public class Buyer extends Customer implements Pay{
+
+	private Property [] wishlist;
+	private Loan loan;
+	
+	public Buyer(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+
+	public void applyForLoan() {
+		double amount;
+	}
+
+	@Override
+	public void pay(Buyer b, Seller s) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

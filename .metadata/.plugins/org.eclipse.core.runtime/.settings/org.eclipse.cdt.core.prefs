@@ -1,0 +1,8 @@
+build.all.configs.enabled=false
+build.proj.ref.configs.enabled=false
+eclipse.preferences.version=1
+environment/workspace/C_INCLUDE_PTAH/delimiter=;
+environment/workspace/C_INCLUDE_PTAH/operation=replace
+environment/workspace/C_INCLUDE_PTAH/value=C_INCLUDE_PATH\=/usr/lib/gcc/i686-linux-gnu/4.6.1/include\:/usr/local/include\:/usr/lib/gcc/i686-linux-gnu/4.6.1/include-fixed\:/usr/include/i386-linux-gnu\:/usr/include
+environment/workspace/append=true
+environment/workspace/appendContributed=true

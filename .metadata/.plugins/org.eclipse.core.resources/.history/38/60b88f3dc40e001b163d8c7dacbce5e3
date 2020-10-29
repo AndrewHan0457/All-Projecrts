@@ -1,0 +1,12 @@
+package Customers;
+
+import InterfacesAndEnums.LoanType;
+import Services.Solicitor;
+
+public class Loan {
+	private LoanType type;
+	private Double amount;
+	private  Buyer buyer;
+	private Solicitor solicitor;
+	
+}

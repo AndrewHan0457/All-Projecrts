@@ -1,0 +1,14 @@
+package Customers;
+
+public class TestApplyLoan {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Buyer buyer = new Buyer("buyer");
+		Seller seller = new Seller("seller");
+		buyer.setDeposit(3000.0);
+		
+		buyer.pay(buyer, seller);
+	}
+
+}

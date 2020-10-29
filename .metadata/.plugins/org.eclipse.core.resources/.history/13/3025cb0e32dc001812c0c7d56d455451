@@ -1,0 +1,27 @@
+package Insertion_Sort;
+
+public class InsertionSort {
+	
+	private int [] arr;;
+	
+	public InsertionSort(int[] arr) {
+		
+	}
+	
+	public static int[] Sort(int n, int[] arr) {
+		for (int i = 0; i < arr.length; i++) {
+			if(n>=arr[i]) {
+				Insert(i, n);
+			}
+		}
+	}
+	public int Insert(int i, int o) {
+		if(i>=0&&i<=this.size()-1) {
+			int temo = this.get(i);
+			arr[i] = o;
+			return temo;
+		}
+		System.out.println("ERROR From Set: Invalid Position!");		
+		return null;
+	}
+}

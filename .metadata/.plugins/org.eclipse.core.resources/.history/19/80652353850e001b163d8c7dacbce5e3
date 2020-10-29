@@ -1,0 +1,33 @@
+/**
+ * 
+ */
+package Customers;
+
+import InterfacesAndEnums.Filter;
+import InterfacesAndEnums.Mode;
+
+/**
+ * @author Andrew Han
+ *
+ */
+public class Customer {
+	
+	
+	public Customer(String name) {
+		this.name = name;
+	}
+	private String name;
+	private int age;
+	private String tel;
+	private Property property;
+	private Mode mode;
+	
+	public void loginAndSignIn(String name, String pwd) {
+		Database db = new Database();
+		UserInterface ui = new UserInterface(this, )
+	}
+	
+	public void search(Filter [] f) {
+		
+	}
+}

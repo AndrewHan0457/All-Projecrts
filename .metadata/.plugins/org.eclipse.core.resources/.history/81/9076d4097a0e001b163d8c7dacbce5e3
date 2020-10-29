@@ -1,0 +1,8 @@
+package Customers;
+
+public class Advertisment {
+	private String title;
+	private Property property;
+	private double value;
+	private Seller seller;
+}

@@ -1,0 +1,5 @@
+package InterfacesAndEnums;
+
+public enum LoanType {
+	petty¡ª¡ªloan , entrust_loans
+}

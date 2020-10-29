@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.papyrus.infra.ui.emf.providers.EMFGraphicalContentProvider_history__platform:/resource/Coursework1/Coursework1.uml:uml:Behavior:method">
+		<section name="History">
+			<list key="PreviousSelection">
+				<item value="platform:/resource/Coursework1/Coursework1.uml#_i8xyYNnAEeiez5i7XzIwzg"/>
+			</list>
+		</section>
+	</section>
+	<section name="org.eclipse.papyrus.infra.ui.emf.providers.EMFGraphicalContentProvider_history__uml:Type:type">
+		<section name="History">
+			<list key="PreviousSelection">
+				<item value="platform:/resource/Coursework1/Coursework1.uml#_i8oBYNnAEeiez5i7XzIwzg"/>
+				<item value="pathmap://PapyrusJava_LIBRARIES/JavaLibrary.uml#_7wRIABydEduyofBvg4RL2w"/>
+				<item value="pathmap://PapyrusJava_LIBRARIES/JavaLibrary.uml#_f-GnEPaLEeW5KOK8aDMdgA"/>
+				<item value="platform:/resource/Coursework1/Coursework1.uml#_fvKygNtjEeixoYdFUIsXiA"/>
+			</list>
+		</section>
+	</section>
+	<section name="org.eclipse.papyrus.infra.ui.emf.customizationManager">
+	</section>
+	<section name="org.eclipse.papyrus.infra.ui.emf.providers.EMFGraphicalContentProvider_history_container_platform:/resource/Coursework1/Coursework1.uml:uml:Type:type">
+		<section name="History">
+			<list key="PreviousSelection">
+				<item value="platform:/resource/Coursework1/Coursework1.uml#_i8oBYNnAEeiez5i7XzIwzg"/>
+			</list>
+		</section>
+	</section>
+	<section name="org.eclipse.papyrus.infra.ui.emf.providers.EMFGraphicalContentProvider_history__platform:/resource/Coursework1/Coursework1.uml:uml:Type:type">
+		<section name="History">
+			<list key="PreviousSelection">
+				<item value="platform:/resource/Coursework1/Coursework1.uml#_fvKygNtjEeixoYdFUIsXiA"/>
+				<item value="pathmap://PapyrusJava_LIBRARIES/JavaLibrary.uml#_f-GnEPaLEeW5KOK8aDMdgA"/>
+				<item value="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EFloatObject"/>
+				<item value="platform:/resource/Coursework1/Coursework1.uml#_i8gsoNnAEeiez5i7XzIwzg"/>
+			</list>
+		</section>
+	</section>
+	<section name="org.eclipse.papyrus.infra.ui.emf.providers.EMFGraphicalContentProvider_history__platform:/resource/Coursework1/Coursework1.uml:uml:Constraint:precondition">
+	</section>
+	<section name="org.eclipse.papyrus.infra.ui.emf.providers.EMFGraphicalContentProvider_history__platform:/resource/Coursework1/Coursework1.uml:uml:Constraint:postcondition">
+	</section>
+	<section name="org.eclipse.papyrus.infra.ui.emf.providers.EMFGraphicalContentProvider_history__platform:/resource/Coursework1/Coursework1.uml:uml:Constraint:bodyCondition">
+	</section>
+	<section name="org.eclipse.papyrus.infra.ui.emf.providers.EMFGraphicalContentProvider_history__uml:Behavior:method">
+		<section name="History">
+			<list key="PreviousSelection">
+				<item value="platform:/resource/Coursework1/Coursework1.uml#_i801sNnAEeiez5i7XzIwzg"/>
+			</list>
+		</section>
+	</section>
+</section>

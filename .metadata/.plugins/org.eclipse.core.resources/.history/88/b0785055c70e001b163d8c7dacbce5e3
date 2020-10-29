@@ -1,0 +1,16 @@
+package Customers;
+
+public class Seller extends Customer{
+	
+	private Property [] on_saling_properties;
+	
+	public Seller(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+		this.setProperty("");
+	}
+	
+	public void postProperty(Property p) {
+		
+	}
+}

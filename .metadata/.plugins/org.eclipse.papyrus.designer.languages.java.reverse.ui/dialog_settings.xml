@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="/papyrus/papyrus.uml:DISPLAY_CU"/>
+	<item value="false" key="/Coursework1/Coursework1.uml:DISPLAY_PACKAGES"/>
+	<item value="false" key="/Coursework1/Coursework1.uml:DISPLAY_MODEL"/>
+	<item value="0" key="/Coursework1/Coursework1.umlCoursework1_SM:selectedParserIndex"/>
+	<item value="" key="/papyrus/papyrus.uml:projectName"/>
+	<item value="Coursework1_SM" key="/Coursework1/Coursework1.umlCoursework1_SM:projectName"/>
+	<item value="true" key="/papyrus/papyrus.uml:DISPLAY_PACKAGES"/>
+	<item value="SM Project01" key="/papyrus/papyrus.umlSM Project01:projectName"/>
+	<item value="false" key="/Coursework1/Coursework1.uml:DISPLAY_CU"/>
+	<item value="true" key="/papyrus/papyrus.uml:DISPLAY_MODEL"/>
+	<item value="1" key="/papyrus/papyrus.umlSM Project01:selectedParserIndex"/>
+	<item value="0" key="/papyrus/papyrus.uml:selectedParserIndex"/>
+	<list key="/papyrus/papyrus.uml:creationpaths">
+		<item value="java.* ; ; java"/>
+		<item value="org.eclipse.papyrus.* ; ; *"/>
+		<item value="org.eclipse.* ; org.eclipse.papyrus.* ; *"/>
+		<item value=" org.osgi.* ; ; osgi.*"/>
+		<item value=" datatype.* ; ; datatype"/>
+	</list>
+	<list key="/papyrus/papyrus.uml:searchpaths">
+		<item value="java"/>
+		<item value="*"/>
+		<item value="osgi.*"/>
+		<item value="datatype"/>
+	</list>
+	<list key="/Coursework1/Coursework1.umlCoursework1_SM:searchpaths">
+		<item value="java"/>
+		<item value="*"/>
+		<item value="osgi.*"/>
+		<item value="datatype"/>
+	</list>
+	<list key="/papyrus/papyrus.umlSM Project01:creationpaths">
+		<item value="org.eclipse.papyrus.* ; ; *"/>
+		<item value="org.eclipse.* ; org.eclipse.papyrus.* ; *"/>
+		<item value=" org.osgi.* ; ; osgi.*"/>
+		<item value=" datatype.* ; ; datatype"/>
+	</list>
+	<list key="/papyrus/papyrus.umlSM Project01:searchpaths">
+		<item value="*"/>
+		<item value="osgi.*"/>
+		<item value="datatype"/>
+	</list>
+	<list key="/Coursework1/Coursework1.umlCoursework1_SM:creationpaths">
+		<item value="java.* ; ; java"/>
+		<item value="org.eclipse.papyrus.* ; ; *"/>
+		<item value="org.eclipse.* ; org.eclipse.papyrus.* ; *"/>
+		<item value=" org.osgi.* ; ; osgi.*"/>
+		<item value=" datatype.* ; ; datatype"/>
+	</list>
+</section>

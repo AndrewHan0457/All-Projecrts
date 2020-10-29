@@ -1,0 +1,36 @@
+package Insertion_Sort;
+
+public class InsertionSort {
+	
+	private int [] arr;;
+	
+	public InsertionSort(int[] arr) {
+		
+	}
+	
+	public int[] Sort(int n, int[] arr) {
+		for (int i = 0; i < arr.length; i++) {
+			if(n>=arr[i]) {
+				Insert(i, n);
+			}
+		}
+	}
+	
+	public void add(int i, Object o) {
+		if(i>=0&&i<=this.size()) {
+			if(this.isEmpty()) {
+				os[0] = o;
+				return;
+			}
+			Object[] os2 = new Object[this.size()+1];
+			for(int m = 0; m < i; m++) {
+				os2[m] = os[m];
+			}
+			System.arraycopy(os, i, os2, i+1, this.size()-i);
+			os2[i] = o;
+			os = os2;
+			return;
+		}
+		System.out.println("ERROR From Add: Invalid i!");
+	}
+}

@@ -1,0 +1,15 @@
+package Services;
+
+import InterfacesAndEnums.LoanType;
+
+public class Solicitor {
+	public LoanType recommendLoan(double amount) {
+		if (amount  > 3000.0) {
+			return LoanType.petty_loan; 
+		}
+		else {
+			return LoanType.large_loans;
+		}
+		return null;
+	}
+}

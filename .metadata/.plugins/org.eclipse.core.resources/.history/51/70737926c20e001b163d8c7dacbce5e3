@@ -1,0 +1,9 @@
+package Services;
+
+public class Solicitor {
+	public LoanType recommendLoan(double amount) {
+		if (amount  > 3000.0) {
+			return petty_loan;
+		}
+	}
+}

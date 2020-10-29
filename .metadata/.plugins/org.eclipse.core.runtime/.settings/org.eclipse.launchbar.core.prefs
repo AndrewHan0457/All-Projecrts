@@ -1,0 +1,15 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Game,org.eclipse.launchbar.core.descriptorType.default\:Main (1),org.eclipse.launchbar.core.descriptorType.default\:Main,org.eclipse.launchbar.core.descriptorType.default\:TestJunit,org.eclipse.launchbar.core.descriptorType.default\:testInsertSort,org.eclipse.launchbar.core.descriptorType.default\:Interrupted_root_make,org.eclipse.launchbar.core.descriptorType.default\:FileMonitor,org.eclipse.launchbar.core.descriptorType.default\:FileMonitor (1),org.eclipse.launchbar.core.descriptorType.default\:MainApp,org.eclipse.launchbar.core.descriptorType.default\:MainApp (1),org.eclipse.launchbar.core.descriptorType.default\:MainApp (2),org.eclipse.launchbar.core.descriptorType.default\:SpaceInvadersApp,org.eclipse.launchbar.core.descriptorType.default\:SpaceInvadersApp (1)
+eclipse.preferences.version=1
+org.eclipse.cdt.debug.core.coreBuildDescriptorType\:OSC_Coursework1/activeLaunchMode=run
+org.eclipse.cdt.debug.core.coreBuildDescriptorType\:OSC_Coursework1/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:FileMonitor\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:FileMonitor\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:FileMonitor/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:FileMonitor/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Game/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Game/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:MainApp/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:testInsertSort/activeLaunchMode=debug

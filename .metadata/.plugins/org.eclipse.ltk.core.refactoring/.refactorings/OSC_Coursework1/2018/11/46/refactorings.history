@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;OSC_Coursework1/src/osc_queue&apos; to &apos;osc_queue.c&apos;" description="Rename resource &apos;osc_queue&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/osc_queue" name="osc_queue.c" stamp="1542358819422" updateReferences="true"/>
+</session>
